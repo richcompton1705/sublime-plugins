@@ -1,0 +1,1776 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"val"
+			],
+			[
+				"prox",
+				"proxyFor"
+			],
+			[
+				"disable",
+				"disableFields"
+			],
+			[
+				"SubOrga",
+				"SubOrganization"
+			],
+			[
+				"widget",
+				"FIT.widget.MessageBox.error"
+			],
+			[
+				"Organizat",
+				"OrganizationID"
+			],
+			[
+				"host-newhire-status-date-reqAc",
+				"host-newhire-status-date-reqActualExternal"
+			],
+			[
+				"host-newhire-status-date-reqActual",
+				"host-newhire-status-date-reqActualInternal"
+			],
+			[
+				"SubOrgani",
+				"SubOrganizationID"
+			],
+			[
+				"widge",
+				"FIT.widget.MessageBox.error"
+			],
+			[
+				"init",
+				"initDataTable"
+			],
+			[
+				"wid",
+				"FIT.widget.MessageBox.confirm"
+			],
+			[
+				"comp",
+				"FIT.component.DataTable"
+			],
+			[
+				"Proxy",
+				"ProxyWin"
+			],
+			[
+				"OffBoardingForm-",
+				"OffBoardingForm-Add"
+			],
+			[
+				"status",
+				"statusList"
+			],
+			[
+				"Busi",
+				"BusinessManagerID"
+			],
+			[
+				"Bus",
+				"BusinessManagerID"
+			],
+			[
+				"Dat",
+				"FIT.widget.DatePicker"
+			],
+			[
+				"Da",
+				"FIT.widget.DatePicker"
+			],
+			[
+				"orgTreeW",
+				"orgTreeWin-search"
+			],
+			[
+				"com",
+				"FIT.component.Window"
+			],
+			[
+				"Fi",
+				"FIT.hideWait"
+			],
+			[
+				"btn-b",
+				"button-bar"
+			],
+			[
+				"base",
+				"FIT.basePath"
+			],
+			[
+				"Termination",
+				"TerminationTypeID"
+			],
+			[
+				"Employee",
+				"EmployeeID"
+			],
+			[
+				"controll",
+				"controllerName"
+			],
+			[
+				"select",
+				"selectOne"
+			],
+			[
+				"FWN",
+				"FIT.wiget.Notify.success"
+			],
+			[
+				"Not",
+				"FIT.wiget.Notify.success"
+			],
+			[
+				"saved",
+				"savedReports"
+			],
+			[
+				"conf",
+				"confirmOverwrite"
+			],
+			[
+				"report",
+				"reports"
+			],
+			[
+				"w",
+				"FIT.widget.MessageBox.confirm"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"incl",
+				"includedFields"
+			],
+			[
+				"avail",
+				"availableFields"
+			],
+			[
+				"avai",
+				"availableFields"
+			],
+			[
+				"Fge",
+				"FIT.get"
+			],
+			[
+				"Type",
+				"Type"
+			],
+			[
+				"Offboa",
+				"OffboardRecord"
+			],
+			[
+				"Status",
+				"StatusID"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"Hire",
+				"HireController"
+			],
+			[
+				"FWME",
+				"FIT.widget.MessageBox.error"
+			],
+			[
+				"CRD",
+				"CRDetailsDataAvailable"
+			],
+			[
+				"full",
+				"fullData"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"grid",
+				"grid-required"
+			],
+			[
+				"type",
+				"typeOfHire"
+			],
+			[
+				"Projected",
+				"ProjectedEndDateField"
+			],
+			[
+				"recruiter",
+				"recruiterRole"
+			],
+			[
+				"winFloor",
+				"winFloorNumber"
+			],
+			[
+				"Fme",
+				"FIT.widget.MessageBox.error"
+			],
+			[
+				"FIT",
+				"FIT.showWait"
+			],
+			[
+				"F",
+				"FIT.showWait"
+			],
+			[
+				"jsface",
+				"Class	JSFace"
+			],
+			[
+				"setMa",
+				"setMailCodes"
+			],
+			[
+				"setM",
+				"setMailCodes"
+			],
+			[
+				"data",
+				"dataTable"
+			],
+			[
+				"Loc",
+				"LocationID"
+			],
+			[
+				"json",
+				"jsonError"
+			],
+			[
+				"get",
+				"getLocations"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"render",
+				"renderDT"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"emplo",
+				"employeeManagmentRender"
+			],
+			[
+				"option",
+				"optionTpl"
+			],
+			[
+				"form-sub",
+				"form-subOrg-field"
+			],
+			[
+				"buil",
+				"buildSelects"
+			],
+			[
+				"te",
+				"teamMemberDetails"
+			],
+			[
+				"update",
+				"updateDetails"
+			],
+			[
+				"da",
+				"dataTable"
+			],
+			[
+				"TeamMember",
+				"TeamMemberSpaceLogAsyn"
+			],
+			[
+				"Space",
+				"SpaceController"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"setup",
+				"setupDependentDropdowns"
+			],
+			[
+				"cont",
+				"controllerName"
+			],
+			[
+				"sear",
+				"searchWindow"
+			],
+			[
+				"Em",
+				"EmployeeManagement"
+			],
+			[
+				"employee-se",
+				"employee-search-clear"
+			],
+			[
+				"fdt",
+				"fdtcol	Add DT Column"
+			],
+			[
+				"space",
+				"spaceManagement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/locationSearch.js",
+			"settings":
+			{
+				"buffer_size": 14017,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/projects/Host/HOSTService/Node/package.json",
+			"settings":
+			{
+				"buffer_size": 659,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/projects/Host/HOSTService/Node/public/js/pages/offboard/dashboard.js",
+			"settings":
+			{
+				"buffer_size": 7420,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/projects/Host/HOSTService/Node/services.yaml",
+			"settings":
+			{
+				"buffer_size": 6181,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/projects/Host/HOSTService/Node/public/js/pages/windows/statusChangeWindow.js",
+			"settings":
+			{
+				"buffer_size": 23127,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/projects/Host/HOSTService/Node/public/tpl/windows/statusChange.html",
+			"settings":
+			{
+				"buffer_size": 12452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/projects/Host/HOSTService/Node/api/list.js",
+			"settings":
+			{
+				"buffer_size": 3807,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/projects/Host/HOSTService/Node/api/newhire.js",
+			"settings":
+			{
+				"buffer_size": 13640,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/projects/Host/HOSTService/Node/public/tpl/windows/locationSearch.html",
+			"settings":
+			{
+				"buffer_size": 5266,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/*global HOST, Vue */\n\n/**\n * Project Search Window\n * @author Kyle Ross\n * @date 1/14/15\n */\nHOST.windows.ProjectSearch = Class(function(){\n    var tpl = [\n        '<div class=\"well grid-form grid-form-lite project-search-window\">',\n            '<div data-row-span=\"4\">',\n                '<div data-field-span=\"1\">',\n                    '<label for=\"project-searchBy\">Search By</label> ',\n                    '<select id=\"project-searchBy\" v-model=\"args.SearchBy\" options=\"opts\"></select>',\n                '</div>',\n                '<div data-field-span=\"2\">',\n                    '<label for=\"project-searchText\">Search Text</label> ',\n                    '<select v-model=\"args.SearchCondition\" class=\"project-searchCond\">',\n                        '<option value=\"1\">Begins With</option>',\n                        '<option value=\"2\">Contains</option>',\n                        '<option value=\"3\">Ends With</option>',\n                        '<option value=\"0\">Equals</option>',\n                    '</select>',\n                    '<input type=\"text\" v-model=\"args.SearchValue\" v-on=\"keyup:search | key enter\" id=\"project-searchText\">',\n                '</div>',\n                \n                '<div data-field-span=\"1\" class=\"project-search-buttons\">',\n                    '<a href=\"javascript:void(0);\" v-on=\"click: clear\" class=\"btn btn-salmon btn-right btn-sm\"><i class=\"icon-remove\"></i> Clear</a> &nbsp;',\n                    '<a href=\"javascript:void(0);\" v-on=\"click: search\" class=\"btn btn-blue btn-right btn-sm\"><i class=\"icon-search\"></i> Search</a>',\n                '</div>',\n            '</div>',\n        '</div>',\n        '<div id=\"project-search-dataTable\"></div>'\n    ],\n    data = {\n        args: {\n            SearchBy: 'ProjectTitle',\n            SearchCondition: '1',\n            SearchValue: ''\n        },\n        opts: [\n            { value: 'ProjectTitle',       text: 'Project Title' },\n            { value: 'TechManager',        text: 'Tech Manager' },\n            { value: 'LeadProjectManager', text: 'Project Manager' },\n            { value: 'ProjectAU',          text: 'Project AU Number' },\n            { value: 'BusinessContact',    text: 'Business Contact' },\n            { value: 'LOB',                text: 'Line of Business' },\n            { value: 'ProjectStage',       text: 'Project Stage' },\n            { value: 'FunctionofWork',     text: 'Function of Work' },\n            { value: 'ProjectNumber',      text: 'PERT Number' }\n        ]\n    };\n    \n    function initWindow() {\n        var self = this;\n        \n        self.win = FIT.component.Window.init({\n            title: 'Project Search',\n            html: tpl.join(''),\n            width: 900,\n            zindex: 500,\n            onExit: function() {\n                self.win.destroy();\n            },\n            onShow: function() {\n                onWindowShow.call(self);\n            }\n        });\n        \n        self.win.show();\n    }\n    \n    function renderDataTable() {\n        var self = this;\n        \n        self.dataTable = FIT.component.DataTable.init({\n            renderTo: 'project-search-dataTable',\n            perPage: 5,\n            columns: [{\n                key: 'Select',\n                label: '',\n                cellRender: function (el, data, rowData) {\n                    $(el).html('<a href=\"#\" class=\"btn btn-green btn-icon\" title=\"Use Project\"><i class=\"icon-share-square-o\"></i></a>')\n                        .find('a').on('click', function(e) {\n                            e.preventDefault();\n                            self.callback(rowData);\n                            self.win.destroy();\n                        });\n                },\n                sortable: false\n            }, {\n                key: 'ProjectNumber',\n                label: 'PERT No.'\n            }, {\n                key: 'ProjectTitle',\n                label: 'Project',\n                width: 250\n            }, {\n                key: 'TechManager',\n                label: 'Tech Manager',\n                sortable: false\n            }, {\n                key: 'ProjectManager',\n                label: 'Project Manager',\n                sortable: false,\n                cellRender: function(el, data, rowData) {\n                    var email = rowData.ProjectManagerEmailID;\n                    $(el).html(data + (email ? '<br><a href=\"mailto: ' + email + '\">' + email + '</a>' : ''));\n                }\n            }, {\n                key: 'ProjectAU',\n                label: 'AU',\n                sortable: false\n            }, {\n                key: 'StartDate',\n                label: 'Start Date',\n                render: function(data, type, row) {\n                    var date = moment(data);\n                    return date.isAfter('1985')? date.format('MM-DD-YYYY') : 'N/A';\n                },\n                sortable: false\n            }, {\n                key: 'EndDate',\n                label: 'End Date',\n                render: function(data, type, row) {\n                    var date = moment(data);\n                    return date.isAfter('1985')? date.format('MM-DD-YYYY') : 'N/A';\n                },\n                sortable: false\n            }],\n\n            tableLayout: '<\"datatable-wrapper\"<\"datatable-outer\"t><\"datatable-toolbar-gray\"ip>>'\n        });\n    }\n    \n    function onWindowShow() {\n        var self = this;\n        \n        renderDataTable.call(self);\n        \n        self.vm = new Vue({\n            data: $.extend(true, {}, data),\n            el: self.win.getPanel()[0],\n            methods: {\n                search: function() {\n                    FIT.showWait('Searching Projects, please wait...');\n                    console.log(self.vm.$data.search);\n                    $F.post('/api/project/find', self.vm.$data.args, function(result) {\n                        self.dataTable.update(result, true);\n                        FIT.hideWait();\n                    });\n                },\n                \n                clear: function() {\n                    if(self.dataTable) self.dataTable.clear(true, true);\n                    self.vm.$delete('args');\n                    self.vm.$add('args', _.clone(data.args));\n                }\n            }\n        });\n    }\n    \n    return {\n        constructor: function(callback) {\n            this.callback = callback;\n            initWindow.call(this);\n        }\n    };\n});\n",
+			"file": "/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/projectSearch.js",
+			"file_size": 6555,
+			"file_write_time": 130665176548423287,
+			"settings":
+			{
+				"buffer_size": 6386,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"sst",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssr",
+				"Set Syntax: Ruby"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"pma",
+				"Project Manager: Add Project"
+			],
+			[
+				"PIP",
+				"Package Control: Install Package"
+			],
+			[
+				"packaip",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"cd C:",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/Host/HOSTService",
+		"/C/projects/Host/HOSTService/Node",
+		"/C/projects/Host/HOSTService/Node/api",
+		"/C/projects/Host/HOSTService/Node/logic",
+		"/C/projects/Host/HOSTService/Node/public",
+		"/C/projects/Host/HOSTService/Node/public/js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/offboard"
+	],
+	"file_history":
+	[
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/projectDetails.js",
+		"/C/projects/Host/HOSTService/Node/service/HireTest.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/employeeSearch.js",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/auSearch.html",
+		"/C/projects/Host/HOSTService/Node/controllers/utilities.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/checklist.js",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/locationSearch.html",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/locationSearch.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/adHocExtract.js",
+		"/C/projects/Host/HOSTService/Node/controllers/reports.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/newhire/dashboard.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/newhire/sections/positionDetails.js",
+		"/C/projects/Host/HOSTService/Node/utils/formTypes.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/newhire/formFunctions/validate.js",
+		"/C/projects/Host/HOSTService/Node/logic/newHire/positionDetails.js",
+		"/C/projects/Host/HOSTService/Node/logic/newHire/recruiting.js",
+		"/C/projects/Host/HOSTService/Node/logic/newHire/businessManagement.js",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/statusChange.html",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/statusChangeWindow.js",
+		"/C/projects/Host/HOSTService/Node/views/utilities/proxies.jade",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/utilities/proxies.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/reports/extract.js",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/adHocExtracts.html",
+		"/C/projects/Host/HOSTService/Node/config.yaml",
+		"/C/projects/Host/HOSTService/Node/node_modules/trailsjs/node_modules/content-disposition/index.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/newhire/form.js",
+		"/C/projects/Host/HOSTService/Node/logic/newHireForm.js",
+		"/C/projects/Host/HOSTService/Node/logic/newHire/billingAUDetails.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/components/checklistComponents.js",
+		"/C/projects/Host/HOSTService/Node/public/js/lib/vue.filters.js",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/onboardChecklist.html",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/offboard/record.js",
+		"/C/projects/Host/HOSTService/Node/public/js/base/form.js",
+		"/C/projects/Host/HOSTService/Node/api/proxy.js",
+		"/C/projects/Host/HOSTService/Node/services.yaml",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/reports/quality.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/reports/forecast.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/reports/peoplesoft.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/reports/space.js",
+		"/C/projects/Host/HOSTService/views/layout.jade",
+		"/C/projects/Host/HOSTService/Node/adapters/authentication.js",
+		"/C/projects/Host/HOSTService/Node/api/permissions.js",
+		"/C/projects/Host/HOSTService/Node/api/utilities.js",
+		"/C/projects/Host/HOSTService/Node/navigation.yaml",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/utilities/permissions.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/proxyWindow.js",
+		"/C/projects/Host/HOSTService/Node/views/layout.jade",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/offboard/validate.js",
+		"/C/projects/Host/HOSTService/Node/views/offboard/record.jade",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/approvals/approved.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/approvals/rejected.js",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/offboardChecklist.html",
+		"/C/projects/Host/HOSTService/Node/models/offboard.js",
+		"/C/projects/Host/HOSTService/Node/views/reports/data-quality.jade",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/posting/posting.js",
+		"/C/projects/Host/HOSTService/Node/controllers/posting.js",
+		"/C/projects/Host/HOSTService/Node/node_modules/fit/lib/js/lib.js",
+		"/C/projects/Host/HOSTService/Node/node_modules/async/lib/async.js",
+		"/C/Users/u230813/Desktop/initialoffboardrecord.jade",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/offboard/dashboard.js",
+		"/C/projects/Host/HOSTService/Node/api/list.js",
+		"/C/projects/Host/HOSTService/Node/service/ListsTest.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/newhire/sections/businessManagement.js",
+		"/C/projects/Host/HOSTService/Node/controllers/offboard.js",
+		"/C/projects/Host/HOSTService/Node/public/css/app.less",
+		"/C/projects/Host/HOSTService/Node/api/newhire.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/onoffboardStatusWindow.js",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/onoffboardingStatusWindow.html",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/approvals/pending.js",
+		"/C/projects/Host/HOSTService/Node/views/utilities/permissions.jade",
+		"/C/projects/Host/HOSTService/Node/api/project.js",
+		"/C/projects/Host/HOSTService/Node/node_modules/fit/lib/js/FIT.js",
+		"/C/projects/Host/HOSTService/Node/node_modules/trailsjs/tpls/js/app.js",
+		"/C/projects/Host/HOSTService/Node/service/SecurityManagerTest.js",
+		"/C/projects/Host/HOSTService/Node/api/reports.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/statusChangeWindow.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/orgTree.js",
+		"/C/projects/Host/HOSTService/Node/views/offboard/dashboard.jade",
+		"/C/projects/Host/HOSTService/Node/controllers/new-hire.js",
+		"/C/projects/Host/HOSTService/Node/api/onoffboardcommon.js",
+		"/C/projects/Host/HOSTService/Node/api/offboard.js",
+		"/C/projects/Host/HOSTService/Node/api/onboard.js",
+		"/C/projects/Host/HOSTService/Node/controllers/onboard.js",
+		"/C/Users/u230813/AppData/Roaming/Sublime Text 3/Packages/fit-sublime-snippets/Snippets/window.sublime-snippet",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/offboard/offboardChecklist.html",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/sow/crform.js",
+		"/C/projects/Host/HOSTService/Node/public/js/base/checklist.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/spacePlanning/windows/addEditFloors.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/onboardChecklist.js",
+		"/C/projects/Host/HOSTService/Node/public/js/base/window.js",
+		"/C/projects/Host/HOSTService/Node/service/OnOffBoardingTest.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/onboardRequest.js",
+		"/C/projects/Host/HOSTService/Node/public/js/base/Validation.js",
+		"/C/projects/Host/HOSTService/Node/api/employee.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/editInvoiceSchedule.js",
+		"/C/projects/Host/HOSTService/Node/service/CommonTest.js",
+		"/C/projects/COOPortal/Service/COOToolsService/Node/controllers/bumlist.js",
+		"/C/projects/COOPortal/Service/COOToolsService/Node/views/utilities/bumlist.jade",
+		"/C/projects/Host/HOSTService/Node/logic/offboard/main.js",
+		"/C/projects/Host/HOSTService/Node/api/search.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/newhire/formFunctions/utils.js",
+		"/C/projects/Host/HOSTService/Node/api/approvals.js",
+		"/C/projects/COOPortal/Service/COOToolsService/Node/api/bum.js",
+		"/C/projects/Host/HOSTService/Node/views/new-hire/form.jade",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/newhire/formFunctions/events.js",
+		"/C/projects/Host/HOSTService/Node/public/js/utils/utils.js",
+		"/C/projects/Host/HOSTService/Node/logic/utils.js",
+		"/C/projects/Host/HOSTService/Node/views/reports/full-extract.jade",
+		"/C/projects/Host/HOSTService/Node/api/prefs.js",
+		"/C/projects/Host/HOSTService/Node/logic/checklist.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/onboard/dashboard.js",
+		"/C/projects/TCO/Application/Service/TCOService/Node/controllers/bde.js",
+		"/C/projects/TCO/Application/Service/TCOService/Node/public/js/pages/bde/selectLOB.js",
+		"/C/projects/TCO/Application/Service/TCOService/Node/public/js/pages/components/treeview.js",
+		"/C/projects/Host/HOSTService/Node/views/onboard/dashboard.jade",
+		"/C/projects/Host/HOSTService/Node/logic/offboard.js",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/onboardRequest.html",
+		"/C/projects/Host/HOSTService/Node/public/tpl/windows/checklist.html",
+		"/C/projects/Host/HOSTService/Node/service/ReportsTest.js",
+		"/C/projects/Host/HOSTService/Node/views/new-hire/dashboard.jade",
+		"/C/Users/u230813/AppData/Roaming/Sublime Text 3/Packages/fit-sublime-snippets/Snippets/Datatable/datatable-col.sublime-snippet",
+		"/C/projects/Host/HOSTService/Node/utils/form.js",
+		"/C/Users/u230813/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/u230813/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/projects/Host/HOSTService/Node/controllers/approvals.js",
+		"/C/projects/Host/HOSTService/Node/api/au.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/sow/sowform.js",
+		"/C/projects/Host/HOSTService/Node/public/js/pages/windows/employeeSearchWindow.js"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+			"C:\\projects\\Host\\HOSTService\\Node",
+			"C:\\projects\\Host\\HOSTService\\Node\\public",
+			"C:\\projects\\Host\\HOSTService\\Node",
+			"C:\\projects\\Host\\HOSTService\\Node\\public",
+			"C:\\projects\\Host\\HOSTService\\Node\\",
+			"C:\\projects\\Host\\HOSTService\\Node\\public",
+			"C:\\projects\\Host\\HOSTService\\Node\\",
+			"C:\\projects\\Host\\HOSTService\\Node\\public",
+			"C:\\projects\\Host\\HOSTService\\Node\\",
+			"C:\\projects\\Host\\HOSTService\\Node\\logic\\newHire",
+			"C:\\projects\\Host\\HOSTService\\Node",
+			"C:\\projects\\Host\\HOSTService\\Node\\public",
+			"C:\\projects\\Host\\HOSTService\\Node\\",
+			"C:\\projects\\Host\\HOSTService\\Node\\public",
+			"C:\\projects\\Host\\HOSTService\\Node",
+			"C:\\projects\\Host\\HOSTService\\Node\\public",
+			"C:\\projects\\Host\\HOSTService\\Node\\publichandlebar",
+			"C:\\projects\\Host\\HOSTService\\Node",
+			"C:\\projects\\Host\\HOSTService\\Node\\public",
+			"C:\\projects\\Host\\HOSTService\\Node",
+			"C:\\projects\\Host\\HOSTService\\Node\\public",
+			"C:\\projects\\Host\\HOSTService\\Node",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"actual s",
+			"SpaceTypeID",
+			"self.data",
+			"spacetypebymac",
+			".select2('enable'",
+			"select2",
+			"Expected Internal",
+			"Expected Internal Posting Date",
+			"thumbnail",
+			"found",
+			"PositionTypeID",
+			"data",
+			"getEmployeeInfo",
+			"getempl",
+			"gete,",
+			"onAdd",
+			"getemployee",
+			"TMSearch",
+			"tabletools",
+			"loadPermissions",
+			"proxy-list-dt",
+			"UserEmployeeID",
+			"ProxyEmployeeID",
+			"UserEmployeeID",
+			" req.appSession.proxies",
+			"Proxy",
+			"User",
+			"self.field",
+			"dataTable",
+			"createDataTable",
+			"loadTableData",
+			"self.dataTable",
+			"error",
+			"\"",
+			"===",
+			"Projected Start Date",
+			"HRConsultantDate",
+			"ConsultationDate",
+			"self.vm.$data",
+			"sm",
+			"UnitID",
+			"isempty",
+			"\"",
+			"HRConsultant",
+			"self.vm.$watch",
+			"projected start date",
+			"posting.js",
+			"projected start date",
+			"showWait",
+			"object",
+			"var nextKey = _keyIterator(obj);",
+			"self.vm.$watch",
+			"IsGardenLeaveID",
+			"LastDay",
+			"TeamMember",
+			"LastDayTeamMember",
+			",",
+			"'",
+			"CheckListItemID",
+			"checkDates",
+			"Projected Start Date",
+			"CheckListID",
+			"1",
+			"0",
+			"SubOrganization",
+			"Organization",
+			"OrganizationID",
+			"Organization",
+			"SubOrganization",
+			"OrganizationID",
+			"OffboardingEventTypeID",
+			"groups",
+			"OrgByType",
+			"groups",
+			"OrgsByType",
+			"icon-spaceship",
+			"icon-dashboard",
+			"repopulate",
+			"initDataTable",
+			"reqExternal",
+			"BusinessUnit",
+			"cellRender",
+			"loadPermissions",
+			"PERT Project",
+			"PERT",
+			"/api/permissions/get",
+			"UserRolesAndOrgs",
+			"MandatoryVacationMonitorID",
+			"ok",
+			"req.body.employeeID",
+			"employeeID",
+			"loadProxy",
+			"load-proxy",
+			"RequestionID",
+			".UserRoles(",
+			"UserRoles",
+			"/api/permissions/roles",
+			"#",
+			"16180",
+			"delegateEnabled",
+			"SubOrganization",
+			" | dateOrToday",
+			"showWait",
+			"value=JSON.stringify(pageData.permissions)",
+			"+req.params.id",
+			"OffBoardingForm",
+			"Permissions",
+			"IsMandatoryVacationMonitoringID",
+			"AssignSpecialistID",
+			"self.vueData",
+			"list.BusinessManager",
+			"displayError",
+			"self.init();",
+			"| id",
+			"AssignSpecialistID",
+			".form",
+			"form.",
+			"Loaction",
+			"checklist.header.",
+			"on",
+			"onboard",
+			"Onboarding",
+			"SaveOnBoardingChecklist",
+			"OnBoardingChecklistData",
+			"OnOffBoardingController",
+			"on",
+			"cb",
+			"initComponents"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"value=JSON.stringify(pageData.permissions)",
+			"form",
+			"",
+			"ChecklistItemList",
+			"",
+			"disabled",
+			"",
+			"'',",
+			": ,",
+			"",
+			"value=''",
+			"",
+			",",
+			"'v-attr': 'disabled: [558,559].indexOf(form.PositionTypeID) !== -1'",
+			"===",
+			"StatusID",
+			"JobPostingInfo",
+			"self.data.formId",
+			"self.data.statusDetails",
+			"self..data.statusDetails",
+			"HOST.base",
+			"HOST.SOW",
+			"\"",
+			"$('.user-info b').text().replace('!', '')",
+			" $('.user-info b')",
+			"sowSCMStatus",
+			"CRID",
+			"isEmpty",
+			"self.win",
+			"Id",
+			"\"",
+			"form-SubGroupID-field",
+			"form-SubOrganizationID-field",
+			"form-OrganizationID-field",
+			"self.win"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/locationSearch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1122,
+								1122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/projects/Host/HOSTService/Node/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/projects/Host/HOSTService/Node/public/js/pages/offboard/dashboard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/projects/Host/HOSTService/Node/services.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2088,
+								2088
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/projects/Host/HOSTService/Node/public/js/pages/windows/statusChangeWindow.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13166,
+								13166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3654.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/projects/Host/HOSTService/Node/public/tpl/windows/statusChange.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11637,
+								11637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/projects/Host/HOSTService/Node/api/list.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/projects/Host/HOSTService/Node/api/newhire.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12228,
+								12228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3612.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/projects/Host/HOSTService/Node/public/tpl/windows/locationSearch.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4532,
+								4541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/projects/Host/HOSTService/Node/public/js/pages/windows/new/projectSearch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1684,
+								1684
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 422.0
+	},
+	"pinned_build_system": "",
+	"project": "HOST.sublime-project",
+	"replace":
+	{
+		"height": 79.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"stat",
+				"Node\\public\\tpl\\windows\\statusChange.html"
+			],
+			[
+				"statusch",
+				"Node\\public\\js\\pages\\windows\\statusChangeWindow.js"
+			],
+			[
+				"package",
+				"Node\\package.json"
+			],
+			[
+				"projectsear",
+				"Node\\public\\js\\pages\\windows\\new\\projectSearch.js"
+			],
+			[
+				"projects",
+				"Node\\public\\js\\pages\\windows\\new\\projectDetails.js"
+			],
+			[
+				"services",
+				"Node\\services.yaml"
+			],
+			[
+				"hiret",
+				"Node\\service\\HireTest.js"
+			],
+			[
+				"ause",
+				"Node\\public\\tpl\\windows\\auSearch.html"
+			],
+			[
+				"locat",
+				"Node\\public\\tpl\\windows\\locationSearch.html"
+			],
+			[
+				"location",
+				"Node\\public\\js\\pages\\windows\\new\\locationSearch.js"
+			],
+			[
+				"employeesearch.",
+				"Node\\public\\js\\pages\\windows\\new\\employeeSearch.js"
+			],
+			[
+				"aus",
+				"Node\\public\\tpl\\windows\\auSearch.html"
+			],
+			[
+				"dashboard",
+				"Node\\public\\js\\pages\\newhire\\dashboard.js"
+			],
+			[
+				"reports",
+				"Node\\controllers\\reports.js"
+			],
+			[
+				"adhoc",
+				"Node\\public\\js\\pages\\windows\\new\\adHocExtract.js"
+			],
+			[
+				"locationsea",
+				"Node\\public\\js\\pages\\windows\\new\\locationSearch.js"
+			],
+			[
+				"positiondetails",
+				"Node\\public\\js\\pages\\newhire\\sections\\positionDetails.js"
+			],
+			[
+				"formtyp",
+				"Node\\utils\\formTypes.js"
+			],
+			[
+				"business",
+				"Node\\logic\\newHire\\businessManagement.js"
+			],
+			[
+				"positiond",
+				"Node\\logic\\newHire\\positionDetails.js"
+			],
+			[
+				"status",
+				"Node\\public\\js\\pages\\windows\\new\\statusChangeWindow.js"
+			],
+			[
+				"statuschan",
+				"Node\\public\\tpl\\windows\\statusChange.html"
+			],
+			[
+				"validate",
+				"Node\\public\\js\\pages\\newhire\\formFunctions\\validate.js"
+			],
+			[
+				"check",
+				"Node\\public\\js\\pages\\windows\\new\\checklist.js"
+			],
+			[
+				"positiondet",
+				"Node\\logic\\newHire\\positionDetails.js"
+			],
+			[
+				"positi/",
+				"Node\\node_modules\\trailsjs\\node_modules\\content-disposition\\index.js"
+			],
+			[
+				"newhiredashboard",
+				"Node\\public\\js\\pages\\newhire\\dashboard.js"
+			],
+			[
+				"config",
+				"Node\\config.yaml"
+			],
+			[
+				"extract",
+				"Node\\public\\js\\pages\\reports\\extract.js"
+			],
+			[
+				"proxies",
+				"Node\\public\\js\\pages\\utilities\\proxies.js"
+			],
+			[
+				"utilit",
+				"Node\\controllers\\utilities.js"
+			],
+			[
+				"newhireval",
+				"Node\\public\\js\\pages\\newhire\\formFunctions\\validate.js"
+			],
+			[
+				"billin",
+				"Node\\logic\\newHire\\billingAUDetails.js"
+			],
+			[
+				"positio",
+				"Node\\logic\\newHire\\positionDetails.js"
+			],
+			[
+				"logic/newhire/",
+				"Node\\logic\\newHire\\billingAUDetails.js"
+			],
+			[
+				"vue.filt",
+				"Node\\public\\js\\lib\\vue.filters.js"
+			],
+			[
+				"record",
+				"Node\\public\\js\\pages\\offboard\\record.js"
+			],
+			[
+				"checklistcom",
+				"Node\\public\\js\\pages\\windows\\components\\checklistComponents.js"
+			],
+			[
+				"checklist",
+				"Node\\public\\js\\pages\\windows\\new\\checklist.js"
+			],
+			[
+				"newhireda",
+				"Node\\public\\js\\pages\\newhire\\dashboard.js"
+			],
+			[
+				"onboard",
+				"Node\\public\\tpl\\windows\\onboardChecklist.html"
+			],
+			[
+				"checklistcomponents",
+				"Node\\public\\js\\pages\\windows\\components\\checklistComponents.js"
+			],
+			[
+				"apipro",
+				"Node\\api\\proxy.js"
+			],
+			[
+				"ser",
+				"Node\\services.yaml"
+			],
+			[
+				"authentication",
+				"Node\\adapters\\authentication.js"
+			],
+			[
+				"layout.ja",
+				"views\\layout.jade"
+			],
+			[
+				"apiproxy",
+				"Node\\api\\proxy.js"
+			],
+			[
+				"apiutil",
+				"Node\\api\\utilities.js"
+			],
+			[
+				"prox",
+				"Node\\api\\proxy.js"
+			],
+			[
+				"navigat",
+				"Node\\navigation.yaml"
+			],
+			[
+				"lay",
+				"views\\layout.jade"
+			],
+			[
+				"confi",
+				"Node\\config.yaml"
+			],
+			[
+				"apiperm",
+				"Node\\api\\permissions.js"
+			],
+			[
+				"permissio",
+				"Node\\public\\js\\pages\\utilities\\permissions.js"
+			],
+			[
+				"layout.jade",
+				"views\\layout.jade"
+			],
+			[
+				"adapter",
+				"Node\\adapters\\authentication.js"
+			],
+			[
+				"proxies.ja",
+				"Node\\views\\utilities\\proxies.jade"
+			],
+			[
+				"uti",
+				"Node\\controllers\\utilities.js"
+			],
+			[
+				"record.ja",
+				"Node\\views\\offboard\\record.jade"
+			],
+			[
+				"offboardval",
+				"Node\\public\\js\\pages\\offboard\\validate.js"
+			],
+			[
+				"offboardrecor",
+				"Node\\public\\js\\pages\\offboard\\record.js"
+			],
+			[
+				"offboardrecord",
+				"Node\\views\\offboard\\record.jade"
+			],
+			[
+				"reject",
+				"Node\\public\\js\\pages\\approvals\\rejected.js"
+			],
+			[
+				"appr",
+				"Node\\public\\js\\pages\\approvals\\approved.js"
+			],
+			[
+				"employeese",
+				"Node\\public\\js\\pages\\windows\\new\\employeeSearch.js"
+			],
+			[
+				"api/pr",
+				"Node\\api\\proxy.js"
+			],
+			[
+				"apiuti",
+				"Node\\api\\utilities.js"
+			],
+			[
+				"proxi",
+				"Node\\public\\js\\pages\\utilities\\proxies.js"
+			],
+			[
+				"statuschange",
+				"Node\\public\\js\\pages\\windows\\new\\statusChangeWindow.js"
+			],
+			[
+				"offboardvalidate",
+				"Node\\public\\js\\pages\\offboard\\validate.js"
+			],
+			[
+				"con",
+				"Node\\config.yaml"
+			],
+			[
+				"formty",
+				"Node\\utils\\formTypes.js"
+			],
+			[
+				"busines",
+				"Node\\logic\\newHire\\businessManagement.js"
+			],
+			[
+				"offboardchec",
+				"Node\\public\\tpl\\windows\\offboardChecklist.html"
+			],
+			[
+				"lib",
+				"Node\\node_modules\\fit\\lib\\js\\lib.js"
+			],
+			[
+				"libasyn",
+				"Node\\node_modules\\async\\lib\\async.js"
+			],
+			[
+				"co",
+				"Node\\config.yaml"
+			],
+			[
+				"modelsoff",
+				"Node\\models\\offboard.js"
+			],
+			[
+				"statuschangehtm",
+				"Node\\public\\tpl\\windows\\statusChange.html"
+			],
+			[
+				"newstatus",
+				"Node\\public\\js\\pages\\windows\\new\\statusChangeWindow.js"
+			],
+			[
+				"offboarddas",
+				"Node\\public\\js\\pages\\offboard\\dashboard.js"
+			],
+			[
+				"newhiredashb",
+				"Node\\public\\js\\pages\\newhire\\dashboard.js"
+			],
+			[
+				"service",
+				"Node\\services.yaml"
+			],
+			[
+				"app.le",
+				"Node\\public\\css\\app.less"
+			],
+			[
+				"navig",
+				"Node\\navigation.yaml"
+			],
+			[
+				"apinew",
+				"Node\\api\\newhire.js"
+			],
+			[
+				"apinewhire",
+				"Node\\api\\newhire.js"
+			],
+			[
+				"record.js",
+				"Node\\public\\js\\pages\\offboard\\record.js"
+			],
+			[
+				"offboard",
+				"Node\\controllers\\offboard.js"
+			],
+			[
+				"record.j",
+				"Node\\views\\offboard\\record.jade"
+			],
+			[
+				"newstatuschange",
+				"Node\\public\\js\\pages\\windows\\new\\statusChangeWindow.js"
+			],
+			[
+				"dash",
+				"Node\\public\\js\\pages\\newhire\\dashboard.js"
+			],
+			[
+				"onoffboardingstatuswindow",
+				"Node\\public\\tpl\\windows\\onoffboardingStatusWindow.html"
+			],
+			[
+				"onboardc",
+				"Node\\public\\tpl\\windows\\onboardChecklist.html"
+			],
+			[
+				"offboardc",
+				"Node\\public\\tpl\\windows\\offboardChecklist.html"
+			],
+			[
+				"record.",
+				"Node\\public\\js\\pages\\offboard\\record.js"
+			],
+			[
+				"ad",
+				"Node\\public\\js\\pages\\windows\\new\\adHocExtract.js"
+			],
+			[
+				"modeloff",
+				"Node\\models\\offboard.js"
+			],
+			[
+				"permissions.ja",
+				"Node\\views\\utilities\\permissions.jade"
+			],
+			[
+				"api/perm",
+				"Node\\api\\permissions.js"
+			],
+			[
+				"permi",
+				"Node\\public\\js\\pages\\utilities\\permissions.js"
+			],
+			[
+				"proxy",
+				"Node\\public\\js\\pages\\windows\\proxyWindow.js"
+			],
+			[
+				"permis",
+				"Node\\public\\js\\pages\\utilities\\permissions.js"
+			],
+			[
+				"apiper",
+				"Node\\api\\permissions.js"
+			],
+			[
+				"vue.fil",
+				"Node\\public\\js\\lib\\vue.filters.js"
+			],
+			[
+				"apiprox",
+				"Node\\api\\proxy.js"
+			],
+			[
+				"new/stat",
+				"Node\\public\\js\\pages\\windows\\new\\statusChangeWindow.js"
+			],
+			[
+				"position",
+				"Node\\logic\\newHire\\positionDetails.js"
+			],
+			[
+				"offboardstat",
+				"Node\\public\\js\\pages\\windows\\new\\onoffboardStatusWindow.js"
+			],
+			[
+				"api/utilit",
+				"Node\\api\\utilities.js"
+			],
+			[
+				"reco",
+				"Node\\views\\offboard\\record.jade"
+			],
+			[
+				"vue.filter",
+				"Node\\public\\js\\lib\\vue.filters.js"
+			],
+			[
+				"controllerut",
+				"Node\\controllers\\utilities.js"
+			],
+			[
+				"controlleroffb",
+				"Node\\controllers\\offboard.js"
+			],
+			[
+				"recor",
+				"Node\\public\\js\\pages\\offboard\\record.js"
+			],
+			[
+				"publicproxi",
+				"Node\\public\\js\\pages\\utilities\\proxies.js"
+			],
+			[
+				"windownew",
+				"Node\\public\\js\\pages\\windows\\new\\statusChangeWindow.js"
+			],
+			[
+				"newhiredash",
+				"Node\\public\\js\\pages\\newhire\\dashboard.js"
+			],
+			[
+				"ex",
+				"Node\\public\\js\\pages\\reports\\extract.js"
+			],
+			[
+				"org",
+				"Node\\public\\js\\pages\\windows\\new\\orgTree.js"
+			],
+			[
+				"offboarddash",
+				"Node\\public\\js\\pages\\offboard\\dashboard.js"
+			],
+			[
+				"off",
+				"Node\\public\\tpl\\windows\\offboardChecklist.html"
+			],
+			[
+				"offboarddashb",
+				"Node\\views\\offboard\\dashboard.jade"
+			],
+			[
+				"offboardda",
+				"Node\\public\\js\\pages\\offboard\\dashboard.js"
+			],
+			[
+				"controllernew",
+				"Node\\controllers\\new-hire.js"
+			],
+			[
+				"offboard/dash",
+				"Node\\public\\js\\pages\\offboard\\dashboard.js"
+			],
+			[
+				"checklist.js",
+				"Node\\public\\js\\pages\\windows\\new\\checklist.js"
+			],
+			[
+				"vuefil",
+				"Node\\public\\js\\lib\\vue.filters.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"formty",
+				"FormTypes"
+			]
+		],
+		"width": 464.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 375.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Seti (SL).tmTheme",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 8,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_top": 1,
+	"scroll_speed": 0.8,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"use_tab_stops": true
+}
